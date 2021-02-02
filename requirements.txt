@@ -1,2 +1,6 @@
 numpy==1.14.5
 matplotlib==2.0.0
+linalg==1.8.0
+patches==3.0.0
+collections==3.3.3
+pyplot==3.2.1
